@@ -1,6 +1,6 @@
 ##.rmp-container
 ##.asidead
-##.allplay__videoPP
+##.allplay__video
 ##.rmp-ad-container
 jut-su.net##.rmp-container
 jut-su.net##.asidead

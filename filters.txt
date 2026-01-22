@@ -1,2 +1,7 @@
+##.rmp-container
+##.asidead
+##.allplay__video
+##.rmp-ad-container
 jut-su.net##.rmp-container
 jut-su.net##.asidead
+jut-su.net##.allplay__video
